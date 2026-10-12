@@ -1,0 +1,7 @@
+{
+  "prompt": "A teal cube on a cream table, gentle camera orbit, studio lighting, no text.",
+  "model": "kling-v3-turbo",
+  "mode": "std",
+  "duration": 5,
+  "aspect_ratio": "16:9"
+}
